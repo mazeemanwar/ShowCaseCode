@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="title_loading">Loading...</string>
+    <string name="title_accept">Accept</string>
+    <string name="title_error">Error</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Action</string>
+    <string name="title_activity_alerts">Vehicle Alerts</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_message">Messages</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_terms">Terms of Service</string>
+    <string name="title_activity_help">Help</string>
+    <string name="content_terms">Terms of Service</string>
+    <string name="title_activity_policy">Policy</string>
+    <string name="content_policy">Default Policy</string>
+    <string name="content_help">Help</string>
+    <string name="title_activity_login">Login</string>
+    <string name="login_positive_button">Register</string>
+    <string name="login_negative_button">Log In</string>
+    <string name="login_bottom_text">Copyright driverConnex 2014. All rights reserved.</string>
+    <string name="signin_first_hint">Email</string>
+    <string name="signin_second_hint">Password</string>
+    <string name="title_activity_message_view">Message</string>
+    <string name="title_activity_policy_view">Default Policy</string>
+    <string name="location_services_error">Please turn on Location Services in your System Settings.</string>
+    <string name="track_record_title_1">Speed</string>
+    <string name="track_record_title_2">Distance</string>
+    <string name="track_record_title_3">Duration</string>
+    <string name="track_record_title_4">Sharing</string>
+    <string name="track_record_speed_unit">mph</string>
+    <string name="track_record_distance_unit">miles</string>
+    <string name="track_record_title_description">Description</string>
+    <string name="track_record_title_start_time">Start time</string>
+    <string name="track_record_title_end_time">End time</string>
+    <string name="track_record_title_start_date">Start date</string>
+    <string name="track_record_title_end_date">End date</string>
+    <string name="track_record_title_duration">Duration</string>
+    <string name="track_record_title_distance">Distance</string>
+    <string name="track_record_title_business">Business</string>
+    <string name="track_record_title_expense">Expense</string>
+    <string name="track_record_title_full_tank">Full Tank ?</string>
+    <string name="track_record_title_start_address">Start address</string>
+    <string name="track_record_title_end_address">End address</string>
+    <string name="track_record_title_avg_speed">Avg. speed</string>
+    <string name="track_record_title_max_speed">Max speed</string>
+    <string name="track_record_title_gps_point">GPS points</string>
+    <string name="track_record_title_emission">Emissions</string>
+
+    <!-- Basic Module -->
+    <!-- Strings for Basic module -->
+    <!-- ======================================================== -->
+    <string name="my_organisation_title_app_details">DETAILS</string>
+    <string name="my_organisation_field_app_created">Created</string>
+    <string name="my_account_title_account">MY ACCOUNT</string>
+    <string name="my_account_title_app_details">APP DETAILS</string>
+
+    <string name="my_account_title_user_organisation">ORGANISATION</string>
+    <string name="my_account_title_user_group">GROUP</string>
+    <string name="my_account_title_name">Name</string>
+    <string name="my_account_title_joined">Joined</string>
+    <string name="my_account_title_version">Version</string>
+    <string name="my_account_title_membership">Membership</string>
+    <string name="record_video_cancel">Cancel</string>
+    <string name="record_video_retake">Retake</string>
+    <string name="record_video_use">Use Video</string>
+    <string name="change_password_old_password">Old Password</string>
+    <string name="change_password_new_password">New Password</string>
+    <string name="change_password_confirm_password">Confirm Password</string>
+    <string name="settings_misc">MISC</string>
+    <string name="settings_automatic_tracking">Automatic Tracking</string>
+    <string name="settings_journey">JOURNEYS</string>
+    <string name="settings_expense_per_mile">Expense Per Mile</string>
+    <string name="register_first_name">First Name</string>
+    <string name="register_last_name">Last Name</string>
+    <string name="register_email">Email</string>
+    <string name="register_password">Password</string>
+    <string name="title_activity_help_test">MY ACCOUNT</string>
+    <string name="register_confirm">Confirm</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="statistics_last_month">LAST MONTH</string>
+    <string name="statistics_current_month">CURRENT MONTH</string>
+    <string name="statistics_averages">AVERAGES</string>
+    <string name="statistics_budget">BUDGET</string>
+    <string name="statistics_totals">TOTALS</string>
+    <string name="statistics_estimates">ESTIMATES</string>
+    <string name="statistics_actuals">ACTUALS</string>
+    <string name="statistics_costs">COSTS</string>
+    <string name="statistics_options_timeframe">DISPLAY TIMEFRAME</string>
+    <string name="statistics_spent">Spent</string>
+    <string name="statistics_litres">Litres</string>
+    <string name="statistics_cost_per_litre">Cost per Litre</string>
+    <string name="statistics_day">Day</string>
+    <string name="statistics_week">Week</string>
+    <string name="statistics_month">Month</string>
+    <string name="statistics_year">Year</string>
+    <string name="statistics_per_litre">Per Litre</string>
+    <string name="statistics_mot_cost">MOT Cost</string>
+    <string name="statistics_service_cost">Service Cost</string>
+    <string name="statistics_tyre_cost">Tyre Cost</string>
+    <string name="statistics_repairs">Repairs</string>
+    <string name="statistics_total">Total</string>
+    <string name="statistics_mile">Mile</string>
+    <string name="statistics_annual_tax">Annual tax</string>
+    <string name="statistics_finance">Finance</string>
+    <string name="statistics_insurance">Insurance</string>
+    <string name="register_first_name_error">Please enter a first name.</string>
+    <string name="register_last_name_error">Please enter a last name.</string>
+    <string name="register_email_error">Please enter an email.</string>
+    <string name="register_password_error">Please enter a password.</string>
+    <string name="register_confirm_password_error">Please enter your password again.</string>
+    <string name="register_password_match_error">Passwords do not match.</string>
+    <string name="register_error">Invalid email</string>
+    <!-- ======================================================== -->
+    <!-- organisation -->
+    <string name="organisation_logo">LOGO</string>
+    <string name="organisation_details">DETAILS</string>
+
+    <string name="organisation_location_heading">LOCATION</string>
+    <string name="organisation_location">Location</string>
+    <string name="organisation_permission">PERMISSION</string>
+    <string name="organisation_last_update">Last Updated</string>
+    <string name="organisation_activity">Activity</string>
+    <string name="organisation_tracking">Tracking</string>
+    <string name="organisation_user_roles">User Roles</string>
+    <string name="organisation_user_email_hints">Enter user email address</string>
+
+    <string name="organisation_user_email_string">This must be the email address that  the user used tot sign up for DriverConnex with.</string>
+
+    <string name="organisation">Organisation</string>
+    <string name="organisation_locator">Locators</string>
+    <string name="organisation_users">Users</string>
+    <string name="organisation_vehicles">Vehicles</string>
+    <!-- Journey -->
+    <!-- Strings for Journey module -->
+    <!-- ======================================================== -->
+    <string name="journey_error_info">A journey must have at least two locations</string>
+    <string name="journey_not_tracking">Not currently tracking</string>
+    <string name="journey_view_behaviour">View Behaviour</string>
+    <string name="journey_tracking_share">Sharing</string>
+    <string name="journey_delete_warning">Are you sure to delete selected journeys?</string>
+    <string name="journey_delete_warning2">Are you sure to delete this journey?</string>
+    <string name="message_delete_warning">Are you sure to delete this message?</string>
+
+    <!-- DC Vehicle -->
+    <!-- Strings for DC Vehicle module -->
+    <!-- ======================================================== -->
+    <string name="vehicle_details_title_make">Make</string>
+    <string name="vehicle_details_title_model">Model</string>
+    <string name="vehicle_details_title_regdate">Reg. date</string>
+    <string name="vehicle_details_title_cc">CC</string>
+    <string name="vehicle_details_title_colour">Colour</string>
+    <string name="vehicle_details_title_body">Body</string>
+    <string name="vehicle_details_title_bhp">BHP</string>
+    <string name="vehicle_details_title_co2">CO2</string>
+    <string name="vehicle_details_title_fuel">Fuel</string>
+    <string name="claims_details_pending">Pending</string>
+    <string name="claims_details_approved">Approved</string>
+    <string name="vehicle_details_title_gearbox">Gearbox</string>
+    <string name="vehicle_details_title_derivative">Derivative</string>
+    <string name="vehicle_details_title_transmission">Transmission</string>
+    <string name="vehicle_details_title_ext_urb">Ext.Urb MPG</string>
+    <string name="vehicle_details_title_com_mpg">Com. MPG</string>
+    <string name="vehicle_details_title_six_month">6 Month RFL</string>
+    <string name="vehicle_details_title_year_rfl">year RFL</string>
+    <string name="vehicle_details_title_owner">Owner</string>
+    <string name="vehicle_details_title_rfl">RFL Expiry</string>
+    <string name="vehicle_details_title_service">Service Due</string>
+    <string name="vehicle_details_title_emissions">Emissions</string>
+    <string name="vehicle_details_title_class">Class</string>
+    <string name="vehicle_details_title_bodytype">Body Type</string>
+    <string name="vehicle_details_title_taxband">Tax Band</string>
+    <string name="vehicle_details_title_enginesize">Engine Size</string>
+    <string name="vehicle_details_title_fueltype">Fuel Type</string>
+    <string name="claim_details_title_fuel">Fuel</string>
+    <string name="vehicle_documentation_title_document">Document</string>
+    <string name="vehicle_documentation_title_status">Status</string>
+    <string name="vehicle_mpg_quoted">Quoted</string>
+    <string name="vehicle_mpg_had_full_tank">Had Full Tank</string>
+    <string name="vehicle_mpg_current_miles">Current Miles</string>
+    <string name="vehicle_mpg_current_fuel">Current Fuel</string>
+    <string name="vehicle_mpg_full_tanks">Full Tanks</string>
+    <string name="vehicle_mpg_known">Known</string>
+    <string name="vehicle_mpg_calculated">Calculated</string>
+    <string name="vehicle_title_policy_photo">POLICY DOCUMENT PHOTO</string>
+    <string name="vehicle_title_invoice_photo">INVOICE PHOTO</string>
+    <string name="vehicle_title_serviced_items">SERVICED ITEMS</string>
+    <string name="vehicle_title_miles_per_galon">MILES PER GALON</string>
+    <string name="vehicle_title_mpg_calculator">MPG CALCULATOR</string>
+    <string name="vehicle_title_mpg_border_text">In order to calculate an accurate MPG, you will need to have had a full tank of fuel on two seperate occassions</string>
+    <string name="vehicle_title_add_vehicle_mileage">MILEAGE</string>
+    <string name="vehicle_title_service">Service History</string>
+    <string name="vehicle_title_mot">MOT</string>
+    <string name="vehicle_title_vehicle_checks">Vehicle Checks</string>
+    <string name="vehicle_title_economy">Economy</string>
+    <string name="vehicle_title_finance">Finance</string>
+    <string name="vehicle_title_tax">Road Tax</string>
+    <string name="vehicle_title_insurance">Insurance</string>
+    <string name="vehicle_title_cover">Cover</string>
+    <string name="vehicle_title_update_date">Enter new date</string>
+    <string name="vehicle_title_mileage">Mileage</string>
+    <string name="vehicle_title_policy_provider">Provider</string>
+    <string name="vehicle_title_policy_number">Policy Number</string>
+    <string name="vehicle_title_contact_number">Contact Tel</string>
+    <string name="vehicle_title_annual_cost">Annual Cost</string>
+    <string name="vehicle_title_expiry">Expiry Date</string>
+    <string name="vehicle_title_breakdown_cover">Breakdown Cover</string>
+    <string name="vehicle_title_service_type">Type of Service</string>
+    <string name="vehicle_title_service_date">Date of Service</string>
+    <string name="vehicle_title_service_cost">Cost of Service</string>
+    <string name="vehicle_title_vehicle_mileage">Vehicle Mileage</string>
+    <string name="vehicle_title_checks">Checks</string>
+    <string name="vehicle_owned">Private</string>
+    <string name="vehicle_group">Company</string>
+    <string name="vehicle_pool">Pool</string>
+    <string name="vehicle_title_fault_report">Fault Report</string>
+    <string name="vehicle_title_check_failed">Failed</string>
+    <string name="vehicle_title_check_passed">Passed</string>
+    <string name="vehicle_title_alerts">Vehicle Alerts</string>
+    <string name="vehicle_service_add_item">Tap to add items.</string>
+    <string name="add_vehicle_edit_hint">Enter vehicle\'s registration</string>
+    <string name="add_vehicle_current_mileage_hint">Vehicle\'s Current Mileage</string>
+    <string name="add_vehicle_estimated_annual_mileage_hint">Estimated Annual Mileage</string>
+    <string name="vehicle_not_found">No vehicle was found with that registration number.</string>
+    <string name="connection_not_found">Please check your internet connection.</string>
+    <string name="vehicle_no_mileage">Mileage not set</string>
+    <string name="vehicle_no_mot">No MOT expiry date set</string>
+    <string name="vehicle_no_tax">No Tax expiry date set</string>
+    <string name="vehicle_no_insurance">No Insurance cover set</string>
+    <string name="vehicle_no_service">No Service date set</string>
+    <string name="vehicle_select_policy">Tap to select a policy.</string>
+    <string name="vehicle_exist">You have already added this vehicle.</string>
+    <string name="error_email_verified">Email is not verified.</string>
+    <string name="confirm_vehicle">Are you sure you want to add the following vehicle?</string>
+    <string name="vehicle_enter_mileage">Enter vehicle\'s mileage</string>
+    <string name="vehicle_enter_finance">Enter monthly finance amount</string>
+    <string name="vehicle_insurance_error">Please complete all fields before submitting.</string>
+    <string name="vehicle_change_policy">Are you sure you want to change this vehicle\'s policy?</string>
+    <string name="vehicle_book_service">Book a Service</string>
+    <string name="vehicle_retailers">Retailers</string>
+    <string name="vehicle_driverline">Driverline</string>
+    <string name="vehicle_book_demo">Book a Demo</string>
+    <string name="vehicle_support">Support</string>
+    <string name="vehicle_service_error">You haven\'t added any service items to this 
+        service history item</string>
+    <string name="vehicle_mpg_hint">Tap to enter known MPG</string>
+    <string name="vehicle_check_error">Please check all items before continuing</string>
+    <string name="vehicle_new_check">Do you want to start a new check?</string>
+    <string name="vehicle_check_item_info">ALWAYS REFER TO THE VEHICLE\'S HANDBOOK FOR FULL GUIDANCE</string>
+    <string name="vehicle_add_info">If no estimated annual mileage is entered, we will assume that you drive 10,000 miles per year.</string>
+    <string name="vehicle_error_reg_number">Please enter the vehicle\'s registration number.</string>
+    <string name="vehicle_error_current_mileage">Please enter the vehicle\'s current mileage.</string>
+
+    <string-array name="document_titles">
+        <item>RFL</item>
+        <item>MOT</item>
+        <item>Service</item>
+        <item>Last Service</item>
+    </string-array>
+    <string-array name="vehicle_service_type">
+        <item>Major Service</item>
+        <item>Minor Service</item>
+        <item>Repair</item>
+        <item>Tyres</item>
+    </string-array>
+
+    <!-- DC Expense Module -->
+    <!-- Strings for DC Expense Module -->
+    <!-- ======================================================== -->
+
+    <string name="title_activity_claims">Claims</string>
+    <string name="content_claims">Coming soon</string>
+    <string name="expense_details_title_type">Type</string>
+    <string name="expense_details_title_date">Date</string>
+    <string name="expense_details_title_spend">Spent</string>
+    <string name="expense_details_title_currency">Currency</string>
+    <string name="expense_details_title_vat">VAT</string>
+    <string name="expense_details_title_business">Is Business</string>
+    <string name="expense_details_title_volume">Volume</string>
+    <string name="expense_details_title_mileage">Mileage</string>
+    <string name="expense_details_title_hours">Hours</string>
+    <string name="expense_details_title_claimed">Claimed</string>
+    <string name="expense_default_vehicle">Default Vehicle</string>
+    <string name="expense_vehicle">Vehicle</string>
+    <string name="expense_error_info">Please complete all fields before submitting</string>
+    <string name="expense_business">Business</string>
+    <string name="expense_personal">Personal</string>
+    <string name="fuel">Fuel</string>
+    <string-array name="expense_details_type">
+        <item>Other</item>
+        <item>Parking</item>
+        <item>Accommodation</item>
+        <item>Tolls</item>
+    </string-array>
+    <string-array name="expense_details_currency">
+        <item>£ GBP</item>
+        <item>€ EUR</item>
+    </string-array>
+    <string-array name="expense_details_currency_EUR">
+        <item>€ EUR</item>
+        <item>£ GBP</item>
+    </string-array>
+
+    <string name="expense_warning">Are you sure to delete this expense?</string>
+
+    <!-- ======================================================== -->
+
+
+    <!-- DC Incidents Module -->
+    <!-- Strings for DC Incidents Module -->
+    <string name="claim_amount">Amount</string>
+    <string name="claim_expenses_heading">EXPENSES</string>
+
+    <string-array name="claims_details_type">
+        <item>Business Only</item>
+        <item>Personal Only </item>
+        <item>Both</item>
+    </string-array>
+    <string-array name="claims_toggle_yes_no">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+    <!-- ======================================================== -->
+
+
+    <!-- DC Incidents Module -->
+    <!-- Strings for DC Incidents Module -->
+    <!-- ======================================================== -->
+    <string name="incidents_report">Report</string>
+    <string name="incidents_witness_name">Name</string>
+    <string name="incidents_witness_number">Contact Number</string>
+    <string name="incidents_witness_email">Email Address</string>
+    <string name="incidents_description">DESCRIPTION</string>
+    <string name="incidents_attachments">ATTACHMENTS</string>
+    <string name="incidents_witness_details">WITNESS DETAILS</string>
+    <string name="incidents_witness_statement">STATEMENT</string>
+    <string name="incidents_title_vehicle">Vehicle</string>
+    <string name="incidents_when">When did the incident occur?</string>
+    <string name="incidents_time">What time did the incident occur?</string>
+    <string name="incidents_where">Where did the incident occur?</string>
+    <string name="incidents_what_vehicle">What vehicle were you driving?</string>
+    <string name="incidents_info_request">Please include as much information as possible in your description.</string>
+    <string name="incidents_error_date">Please enter an incident date</string>
+    <string name="incidents_error_time">Please enter an incident time</string>
+    <string name="incidents_error_location">Please enter an incident location</string>
+    <string name="incidents_error_vehicle">Please select the vehicle involved in the incident</string>
+    <string name="incidents_add_witness">Add Witness</string>
+    <string name="incidents_no_photo">No Photo Taken</string>
+    <string name="incidents_no_video">No Video Taken</string>
+    <string name="incidents_tutorial_report_title">Incident Report</string>
+    <string name="incidents_tutorial_photos_title">Incident Photos</string>
+    <string name="incidents_tutorial_video_title">Incident Video</string>
+    <string name="incidents_tutorial_witness_title">Witness Details</string>
+    <string name="incidents_tutorial_sucess_title">Success</string>
+    <string name="incidents_tutorial_report_text">Please complete the following steps to
+        create and submit an incident report. This should be carried out as soon
+        after the incident as possible</string>
+    <string name="incidents_tutorial_video_text">In the next step, add a video of the 
+        incident scene if it’s appropriate to do so.</string>
+    <string name="incidents_tutorial_witness_text">Capture information about witnesses at
+        the scene of the incident who might be useful later in providing statements of accounts.</string>
+    <string name="incidents_tutorial_submitted_text">Your report was successfully saved.
+        You can view your report from the main menu.</string>
+
+    <string-array name="details_yesno">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="kpmg_details_hours">
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="kpmg_details_claimed">
+        <item>£5</item>
+        <item>£10</item>
+    </string-array>
+
+    <!-- Activity titles -->
+    <!-- ======================================================== -->
+    <string name="title_activity_details">Details</string>
+    <string name="title_activity_leaderboard">Leaderboard</string>
+    <string name="title_activity_journey_score">Journey Score</string>
+    <string name="title_activity_route">Route</string>
+    <string name="title_activity_review_journey">Journeys</string>
+    <string name="title_activity_my_account">Account</string>
+    <string name="title_activity_change_password">Password</string>
+    <string name="title_activity_parking_locations">Parking Locations</string>
+    <string name="title_activity_location">Location</string>
+    <string name="title_activity_accident_guidance">Accident Guidance</string>
+    <string name="title_activity_breakdown_guidance">Breakdown Guidance</string>
+    <string name="title_activity_vehicles_list">Vehicles</string>
+    <string name="title_activity_invites">Invites</string>
+    <string name="title_activity_camera">Camera</string>
+    <string name="title_activity_travel_subsistence">Add Travel and Subsistence</string>
+    <string name="title_activity_back">Back</string>
+    <string name="title_activity_vehicle_details">Vehicle Details</string>
+    <string name="title_activity_documentation_update"></string>
+    <string name="title_activity_add_vehicle">Add Vehicle</string>
+    <string name="title_activity_add_policy">New Policy</string>
+    <string name="title_activity_add_service">New Service</string>
+    <string name="title_activity_add_photo">Photo</string>
+    <string name="title_activity_add_location">Locations</string>
+    <string name="title_activity_add_location_map">Add Location</string>
+    <string name="title_activity_add_journey">Add Journey</string>
+    <string name="title_activity_book_service">Service</string>
+    <string name="title_activity_friends_list">Friends</string>
+    <string name="title_activity_friends_requests">Requests</string>
+    <string name="title_activity_share_app">Invite Drivers</string>
+    <string name="title_activity_incidents">Incidents</string>
+    <string name="title_activity_track">Track Journey</string>
+    <string name="feild_activity_track">Track</string>
+    <string name="feild_activity_park">Park</string>
+    <string name="feild_activity_checkin">Check In</string>
+    <string name="title_activity_add_expense">Add Expense</string>
+    <string name="title_activity_add_fuel">Add Fuel</string>
+    <string name="title_activity_review">Expenses</string>
+    <string name="title_activity_sign_in">Log In</string>
+    <string name="title_activity_forgot_password">Password Reset</string>
+    <string name="title_activity_regsiter">Register</string>
+    <string name="title_activity_savings_monitor">Savings Monitor</string>
+    <string name="title_activity_fuel_statistics">Fuel Statistics</string>
+    <string name="title_activity_options">Options</string>
+    <string name="title_activity_service_repair">Service &amp; Repair</string>
+    <string name="title_activity_standing">Standing</string>
+    <string name="title_activity_settings_bluetooth_devices">Bluetooth Devices</string>
+    <!-- ======================================================== -->
+
+
+    <!-- Action titles -->
+    <!-- ======================================================== -->
+    <string name="action_save">Save</string>
+    <string name="action_add">Add</string>
+    <string name="action_camera">Take Photo</string>
+    <string name="action_albums">Choose Photo</string>
+    <string name="action_plus">Add Vehicle</string>
+    <string name="action_next">Next</string>
+    <string name="action_select">Select</string>
+    <string name="action_update">Update</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_invite">Invite</string>
+    <string name="action_map">Map</string>
+    <string name="action_eye">Satellite Map</string>
+    <string name="action_confirm">Confirm</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_submit">Submit</string>
+    <string name="action_submit_menu">Submit</string>
+    <string name="action_export">Export</string>
+    <string name="action_report_fault">Report fault</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_retailer_view">RetailerViewActivity</string>
+    <string name="title_activity_my_organisation">MyOrganisation</string>
+    <string name="title_activity_organizations_list">Organizations</string>
+
+</resources>

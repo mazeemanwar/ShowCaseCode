@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.driverconnex.HomeActivity"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- This is action bar/menu for home activity/screen -->
+
+    <!-- Vehicle action that will open vehicle module -->
+    <item
+        android:id="@+id/action_vehicle"
+        android:icon="@drawable/ic_177"
+        app:showAsAction="always"
+        android:title=""/>
+
+</menu>

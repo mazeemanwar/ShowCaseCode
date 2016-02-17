@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="font_textStyle_light">0</integer> <!-- normal -->
+    <string name="font_fontFamily_light">sans-serif</string>
+    <string name="font_fontFamily_medium">sans-serif</string>
+    <string name="font_fontFamily_regular">sans-serif</string>
+</resources>

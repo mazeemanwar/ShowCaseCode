@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:left="-2dp" android:right="-2dp" android:top="-2dp"><shape>
+            <solid android:color="@android:color/white" />
+
+            <stroke android:width="1dp" android:color="@color/menu_divider" />
+
+            <padding android:bottom="8dp" android:left="8dp" android:right="8dp" android:top="8dp" />
+        </shape></item>
+
+</layer-list>

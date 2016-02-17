@@ -1,0 +1,63 @@
+<resources>
+
+
+    <!-- Colour used for majority of the interface -->
+    <color name="main_interface">#151515</color>
+
+    <!-- Background of the login screen, behind the brand logo -->
+    <color name="login_background">#FFFFFF</color>
+
+    <!-- Color of the Facebook bar at the bottom of the login screen -->
+    <color name="facebook">#3b5998</color>
+
+    <!-- Tab bar at the bottom of the dashboard view -->
+    <color name="bottom_bar">#000000</color>
+
+    <color name="menu_background">#FFFFFF</color>
+    <color name="menu_header_foreground">#6C6C6C</color>
+    <color name="header_foreground">#6C6C6C</color>
+    <color name="menu_divider">#776c6c6c</color>
+    <color name="grey_medium">#BDBDBD</color>
+    <color name="grey_light">#E6E6E6</color>
+    <color name="menu_pressed_bg">#8F8F8F</color>
+    <color name="delete_red">#FF0F00</color>
+
+    <!-- This color should be exactly the same as defined in attrs file -->
+
+    <color name="login_button">#FFFFFF</color>
+
+    <color name="bar_background">#FFFFFF</color>
+    <!--
+    Drawable can't use attributes declared in attrs file, so we can't make it easier for us
+    but they can use colors defined here instead.
+    -->
+
+
+    <!-- Color of the button border -->
+    <!-- Should be de same as list_heading declared in attrs file -->
+    <color name="list_heading">#007aff</color>
+    <color name="black">#000000</color>
+    <color name="purple">#640C39</color>
+    <color name="black_transparent">#66000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="main_blue">#151515</color>
+    <color name="tran_grey">#66000000</color>
+    <color name="white_pure">#FFFFFFFE</color>
+
+
+
+    <!-- NEW Material Design + AppCompat theme colours (text) -->
+
+
+    <color name="primary">#640C39</color>
+    <color name="primary_dark">#510B2F</color>
+    <color name="primary_light">#FFCCBC</color>
+    <color name="accent">#03A9F4</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#767777</color>
+    <color name="icons">#212121</color>
+    <color name="divider">#E0E0E0</color>
+
+>
+
+</resources>

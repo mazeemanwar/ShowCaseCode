@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Default theme but with the nice transitions enabled -->
+
+    <style name="DCTheme" parent="DCTheme.Base">
+
+        <item name="selectableItemBackgroundBorderless">
+            ?android:attr/selectableItemBackgroundBorderless
+        </item>
+
+        <item name="main_background">@color/main_interface</item>
+        <item name="main_interface">@color/main_interface</item>
+        <item name="secondary_background">#E0E0E0</item>
+        <item name="bar_background">@color/bar_background</item>
+
+        <item name="tab_bar_background">#FFFFFF</item>
+        <item name="list_heading">#007aff</item>
+        <item name="actionbar_subtitle">#FAFAFA</item>
+        <item name="tutorial_font_color">#000000</item>
+        <item name="login_screen_background">@color/main_interface</item>
+        <item name="behaviour_score_font_color">#FFFFFF</item>
+
+        <item name="android:colorPrimary">@color/primary</item>
+        <!-- <item name="android:colorPrimaryDark">#cb1200</item> -->
+        <item name="android:colorAccent">@color/accent</item>
+
+        <!-- enable window content transitions -->
+        <item name="android:windowContentTransitions">true</item>
+
+        <!-- enable overlap of transitions -->
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:windowAllowReturnTransitionOverlap">true</item>
+
+        <item name="actionOverflowMenuStyle">@style/CMOptionsMenu</item>
+
+
+    </style>
+
+    <style name="ZendeskTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+
+    <style name="SubtitleTextStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Subtitle">
+        <item name="android:textColor">?attr/actionbar_subtitle</item>
+    </style>
+
+    <style name="NormalListTitle">
+        <item name="android:textColor">@color/header_foreground</item>
+        <item name="android:fontFamily">@string/font_fontFamily_regular</item>
+    </style>
+
+    <style name="simpleTextViewLight">
+        <item name="android:fontFamily">@string/font_fontFamily_light</item>
+    </style>
+
+    <style name="simpleTextViewNormal">
+        <item name="android:fontFamily">@string/font_fontFamily_regular</item>
+    </style>
+
+    <style name="simpleTextViewMediumBold">
+        <item name="android:fontFamily">@string/font_fontFamily_medium</item>
+    </style>
+
+    <style name="ExpenseEditLabel">
+        <item name="android:gravity">right</item>
+        <item name="android:textColor">?attr/main_interface</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:fontFamily">@string/font_fontFamily_light</item>
+    </style>
+
+    <style name="ExpenseEditText">
+        <item name="android:background">@null</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:inputType">none</item>
+        <item name="android:fontFamily">@string/font_fontFamily_light</item>
+        <item name="android:textCursorDrawable">@drawable/edit_cursor</item>
+    </style>
+
+    <style name="RecordValueText">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">?attr/main_interface</item>
+    </style>
+
+    <style name="RecordTitleText">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">?attr/main_interface</item>
+    </style>
+
+    <style name="CustomDatePickerDialog" parent="@android:style/Widget.DeviceDefault.DatePicker">
+        <item name="android:divider">?attr/main_interface</item>
+        <item name="android:textColor">?attr/main_interface</item>
+        <item name="android:selectedDateVerticalBar">?attr/main_interface</item>
+    </style>
+
+    <style name="LoadSpinner">
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:background">@color/tran_grey</item>
+        <item name="android:visibility">gone</item>
+    </style>
+
+    <!-- This theme is applied to the application
+    <style name="stylishTheme" parent="MyTheme">
+        <item name="android:actionBarStyle">@style/MyActionBarStyle</item>
+    </style>
+     This theme is applied to the application
+    <style name="CustomActionBarTheme" parent="AppTheme">
+
+    </style>
+
+
+    <style name="MyCustomActionBarTheme" parent="AppTheme">
+        <item name="android:actionBarStyle">@style/MyActionBarStyles</item>
+    </style>
+
+
+
+    <style name="MyActionBarStyles" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">?attr/main_interface</item>
+        <item name="android:displayOptions">showTitle</item>
+        <item name="android:homeAsUpIndicator">@drawable/arrow_back_white</item>
+        <item name="android:subtitleTextStyle">@style/SubtitleTextStyle</item>
+    </style>
+
+
+
+
+    -->
+    <!-- ======================================================== -->
+
+
+    <!-- Other Styles -->
+    <!-- ========================================================
+    <style name="CustomAlertDialog" parent="@android:style/Theme.Holo.Light.Dialog"></style>
+
+
+-->
+    <style name="AppCompatAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:textColorPrimary">@color/primary</item>
+        <item name="android:divider">@color/main_interface</item>
+        <item name="android:listDivider">@color/delete_red</item>
+        <item name="android:showDividers">beginning</item>
+        <item name="android:listDividerAlertDialog">@color/primary</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Widget.PopupMenu.Large
+        </item>
+        <item name="android:background">@color/white_pure</item>
+        <item name="android:windowTitleStyle">@style/TitleDialogTextStyle</item>
+        <item name="android:footerDividersEnabled">true</item>
+        <item name="android:headerDividersEnabled">true</item>
+
+        <item name="android:textSize">16sp</item>
+    </style>
+
+
+    <style name="TitleDialogTextStyle" parent="Base.DialogWindowTitle.AppCompat">
+        <item name="android:textColor">@color/main_interface</item>
+        <item name="android:textSize">20sp</item>
+
+    </style>
+
+    <style name="DCTheme_NoActionBar" parent="DCTheme_NoActionBar.Base">
+
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:windowAllowReturnTransitionOverlap">true</item>
+
+
+    </style>
+
+    <style name="CMOptionsMenu" parent="Widget.AppCompat.PopupMenu.Overflow">
+        <item name="android:popupBackground">@color/grey_medium</item>
+    </style>
+
+    <style name="Theme.Transparent" parent="android:Theme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+</resources>

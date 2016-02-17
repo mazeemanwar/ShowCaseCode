@@ -1,0 +1,38 @@
+<resources>
+
+    <!-- Main background color -->
+    <attr name="main_background" format="color"></attr>
+    
+    <!-- Secondary background color -->
+    <attr name="secondary_background" format="color"></attr>
+   
+    <!-- Main interface color -->
+    <attr name="main_interface" format="color"></attr>
+    
+    <!-- Background color of the bar -->
+    <attr name="bar_background" format="color"></attr>
+	<!-- Background color of the bottom bar -->
+    <attr name="bottom_bar" format="color"></attr>
+    <!-- Background color of the tab bar used for quick navigation at home screen -->
+    <attr name="tab_bar_background" format="color"></attr>
+    
+    <!-- Background color for the login screen -->
+    <attr name="login_screen_background" format="color"></attr>
+    
+    <!-- Labels -->
+    <!-- Color of headings in list views -->
+    <attr name="list_heading" format="color"></attr>
+    
+    <!-- Color of the subtitle in the action bar -->
+    <attr name="actionbar_subtitle" format="color"></attr>
+   
+    <!-- Color of the font for the tutorial activity
+    where background color is main_interface -->
+    <attr name="tutorial_font_color" format="color"></attr>
+	
+    <!-- Color of the font for the behaviour score activity-->
+    <attr name="behaviour_score_font_color" format="color"></attr>
+
+
+
+</resources>
