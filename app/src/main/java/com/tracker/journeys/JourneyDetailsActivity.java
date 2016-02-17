@@ -113,7 +113,7 @@ public class JourneyDetailsActivity extends AppCompatActivity {
                 regText.setText(journey.getVehicle_reg());
 
             } else {
-                regText.setText("AJ54ZBR");
+                regText.setText("");
             }
                      // If emissions have not been yet calculated it will calculate them.
             if (journey.getEmissions() <= 0) {
